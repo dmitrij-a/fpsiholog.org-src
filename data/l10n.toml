@@ -1,0 +1,42 @@
+[articles]
+    read_more = "Читать дальше"
+    words = "слов"
+    readingtime = "минут на чтение"
+    share = "Поделиться"
+    comments = "Комментировать"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "Older"
+    newer = "Newer"
+
+[search]
+    placeholder = "Поиск"
+
+[pagination]
+    previous = "Prev"
+    next = "Next"
+
+[profile]
+    follow_button = "Следить"
+    tags = "Тэгов"
+    posts = "Постов"
+
+[page_not_found]
+    title = "404 - страница не найдена"
+    subtitle = "Похоже, что страница, которую вы пытаетесь открыть, отсутствует на сервере."
+
+[widgets.categories]
+    title = "Быстрый переход к разделу"
+
+[widgets.recent_articles]
+    title = "Недавние записи"
+
+[widgets.tag_cloud]
+    title = "Облако тэгов"
+
+[widgets.tags]
+    title = "Быстрый переход к теме"
+
+[widgets.links]
+    title = "Другие проекты"

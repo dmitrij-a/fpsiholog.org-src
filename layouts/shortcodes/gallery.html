@@ -1,0 +1,9 @@
+<div class="gallery">
+    <div class="gallery-photos">
+        {{ range .Params }}
+        <a class="gallery-thumbnails" href="{{ . }}" rel="group1">
+            <img src="{{ . | absURL }}" itemprop="image">
+        </a>
+        {{ end }}
+    </div>
+</div>

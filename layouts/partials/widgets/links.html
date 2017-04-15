@@ -1,0 +1,32 @@
+{{ if .Site.Params.widgets.links }}
+<div class="widget-wrap">
+    <h3 class="widget-title">
+        {{with .Site.Data.l10n.widgets.links.title}}{{.}}{{end}}
+    </h3>
+    <div class="widget">
+        <ul id="links">
+            <li>
+                    <p class="item-title">
+                        <a href="https://vk.com/fpsiholog" class="title" target="_blank">Сообщество "Психология в разрезе" ВКонтакте</a>
+                    </p>
+                
+            </li>
+            <li>
+                    <p class="item-title">
+                        <a href="https://sunnybunnyf.podfm.ru/psiho/" class="title" target="_blank">Подкаст "Психология в разрезе" на PodFM.ru</a>
+                    </p>
+            </li>
+            <li>
+                    <p class="item-title">
+                        <a href="https://vk.com/sunnybunnyf" class="title" target="_blank">Личная страница Нелли Лисица ВКонтакте</a>
+                    </p>
+            </li>
+            <li>
+                    <p class="item-title">
+                        <a href="https://ask.fm/fpsiholog" class="title" target="_blank">Вопросы и ответы на Ask.fm</a>
+                    </p>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
