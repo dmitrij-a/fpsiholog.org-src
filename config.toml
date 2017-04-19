@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://fpsiholog.org"
 languageCode = "ru"
 defaultcontentlanguage = "ru"
 title = "Дом проектов Нелли Лисицы"
