@@ -6,7 +6,7 @@ disqusShortname = "sunnybunnyf"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-93042591-1"
 # Define the number of posts per page
-paginate = 15
+paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 
