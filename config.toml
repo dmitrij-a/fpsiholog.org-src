@@ -1,15 +1,19 @@
 baseurl = "https://fpsiholog.org"
 languageCode = "ru"
-defaultcontentlanguage = "ru"
-title = "Дом проектов Нелли Лисицы"
+title = "Нелли Лисица | Пора стать счастливее"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "sunnybunnyf"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-93042591-1"
 # Define the number of posts per page
-paginate = 10
+paginate = 15
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
+
+
+[blackfriday]
+  angledQuotes = true
+  hrefTargetBlank = true
 
 
 [taxonomies]

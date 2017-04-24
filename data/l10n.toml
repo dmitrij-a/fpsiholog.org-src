@@ -19,8 +19,8 @@
 
 [profile]
     follow_button = "Следить"
-    tags = "Тэгов"
-    posts = "Постов"
+    tags = "Тем"
+    posts = "Записи"
 
 [page_not_found]
     title = "404 - страница не найдена"
