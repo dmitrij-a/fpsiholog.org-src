@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue27.png"
 slug = "issue27"
-weight = 4
+weight = 5
 +++
 
 - ***Предновогодние ссоры***
