@@ -7,15 +7,15 @@
 
 # Linked older/newer posts at the bottom of each one
 [articles.linked_posts]
-    older = "Older"
-    newer = "Newer"
+    older = "Предыдущий пост"
+    newer = "Следующий пост"
 
 [search]
     placeholder = "Поиск"
 
 [pagination]
-    previous = "Prev"
-    next = "Next"
+    previous = "Предыдущая страница"
+    next = "Следующая страница"
 
 [profile]
     follow_button = "Следить"
