@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue29.png"
 slug = "issue29"
-weight = 9
+weight = 10
 +++
 
 - ***Добытчики в семье.***
