@@ -2183,35 +2183,4 @@ ol.toc {
     display: inline;
 }
 
- .audiocontent {
-  width:80%;
-  max-width: 640px;
-  /*margin: 0 auto;*/
-}
 
-/* ----------- support from iPhone 4 and 4S ----------- */
-
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2) {
-
-    .audiocontent {
-    width:100%;
-  }
-
-}
-
-/* Landscape iPhone 5 and 5S */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) {
-
-    .audiocontent {
-    width:80%;
-  }
-
-}

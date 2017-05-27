@@ -1,15 +1,7 @@
 
  <!-- needs to be loaded first for following scripts -->
-   <script src="{{ "js/jquery-3.2.1.min.js" | absURL }}"></script>
+<script src="{{ "js/jquery-3.2.1.min.js" | absURL }}"></script>
 
+<link rel="stylesheet" href="{{ "audiojs/audiojs.css" | absURL }}">
 
-<script src="{{ "mediaelement/mediaelement-and-player.min.js" | absURL }}"></script>
-<link rel="stylesheet" href="{{ "mediaelement/mediaelementplayer.min.css" | absURL }}" />
-
-<script >
-	$(document).ready(
-		function(){
-			$('audio').mediaelementplayer();
-		});
-
-</script>
+<script src="/audiojs/audio.js"></script>

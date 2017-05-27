@@ -1,7 +1,2 @@
-<div class="audiocontent">
-  <audio controls preload="metadata" style="width:100%;height:100%;" width="100%" height="100%">
-    <source src="{{ .Get "src" | absURL }}" type="audio/mpeg" >
-    Ваш браузер не поддерживает воспроизведение аудио(HTML5).
-  </audio>
-  <a href="{{ .Get "src" | absURL }}" target="_blank">Скачать</a>
-</div>
+<audio src="{{ .Get "src" | absURL }}" preload="auto" ></audio>
+<a href="{{ .Get "src" | absURL }}" target="_blank">Скачать</a>
