@@ -21,5 +21,5 @@ slug = "issue09"
 
 <a href="skype:fpsiholog?userinfo">скайп</a>, <a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
 Так же не забываем!<br>
-У нас есть группа <a href="https://vk.com/fpsiholog">ВКонтакте</a> ;-)<br>
-У нас есть <a href="http://ask.fm/fpsiholog">ask.fm</a> 8-)
+У нас есть группа <a href="https://vk.com/fpsiholog">ВКонтакте</a> ;–)<br>
+У нас есть <a href="http://ask.fm/fpsiholog">ask.fm</a> 8–)

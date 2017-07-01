@@ -14,7 +14,6 @@ slug = "issue13"
 
 ВНИМАНИЕ!
 Следующей подкаст будет посвящен любовной (эмоциональной) зависимости и неврозам связанным с отношениями. Жду ваших вопросов по этой теме.<br>
-Поговорим о том, почему нам интересны чужие тайны. Поразмышляем на тему лжи и поговорим о маньяках.
 
 {{< audio src="/podcast/issue13.mp3" >}}
 <!--more-->
@@ -25,5 +24,5 @@ slug = "issue13"
 
 <a href="skype:fpsiholog?userinfo">скайп</a>, <a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
 Так же не забываем!<br>
-У нас есть группа <a href="https://vk.com/fpsiholog">ВКонтакте</a> ;-)<br>
-У нас есть <a href="http://ask.fm/fpsiholog">ask.fm</a> 8-)
+У нас есть группа <a href="https://vk.com/fpsiholog">ВКонтакте</a> ;–)<br>
+У нас есть <a href="http://ask.fm/fpsiholog">ask.fm</a> 8–)
