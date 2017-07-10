@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue15.png"
 slug = "issue15"
-weight = 2
+weight = 3
 +++
 
 ***Чужой ребенок.***<br>

@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue19.png"
 slug = "issue19"
-weight = 6
+weight = 7
 +++
 
 ***Фотки в соцсетях.***<br>
