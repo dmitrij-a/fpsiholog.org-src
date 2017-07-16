@@ -80,7 +80,7 @@ category = "categories"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://fpsiholog.org/index.xml"
+    follow_button = "/index.xml"
 
 
 [social]
