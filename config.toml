@@ -1,5 +1,4 @@
-baseurl = "/"
-# baseurl = "https://fpsiholog.org"
+baseurl = "https://fpsiholog.org"
 languageCode = "ru"
 title = "Нелли Лисица | Пора стать счастливее"
 # Enable comments by entering your Disqus shortname
