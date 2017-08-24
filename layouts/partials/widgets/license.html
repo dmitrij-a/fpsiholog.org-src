@@ -1,0 +1,25 @@
+{{ if .Site.Params.widgets.license }}
+<div class="widget-wrap">
+    
+    <div class="widget">
+        <div id="license">
+
+                <div >
+                    <a rel="license" href="{{ "license/"| absURL }}" >
+                    
+                        <img alt="Creative Commons License" src="{{ "/images/88x30.png"| absURL }}">
+                        
+                    </a>
+                </div>
+                <div >
+                    <p  style="font-size: 12px;" >
+                        Использование материалов регулируется <a href="{{ "license/"| absURL }}">договором CC</a>
+                        
+                    </p>
+                    
+                </div>
+
+        </div>
+    </div>
+</div>
+{{ end }}

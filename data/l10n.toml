@@ -18,7 +18,7 @@
     next = "Следующая страница"
 
 [profile]
-    follow_button = "Следить"
+    follow_button = "Подписаться"
     tags = "Тем"
     posts = "Записи"
 

@@ -5,6 +5,7 @@ menu = ""
 slug = "gallery"
 noprevnext = true
 disable_comments = true
+nofooter = true
 +++
 
 {{< gallery
@@ -14,5 +15,4 @@ disable_comments = true
     "/gallery/image4.jpg"
     "/gallery/image5.jpg"
     "/gallery/image6.jpg"
-    "/gallery/image7.jpg"
->}}
+    "/gallery/image7.jpg" >}}  

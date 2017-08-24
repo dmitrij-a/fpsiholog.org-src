@@ -31,7 +31,7 @@ category = "categories"
     author = "Нелли Лисица"
     bio = "Хороший человек - Психолог"
     location = "Earth"
-    site_description = ""
+    site_description = "Нелли Лисица"
     copyright  = "Built with [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice). Deploys by [netlify](https://www.netlify.com)."
     avatar = "css/images/avatar.png"
     logo = "css/images/logo.png"
@@ -55,21 +55,26 @@ category = "categories"
 #     label  = "Главная"
 #     link   = "/"
 
+
 [[params.menu]]
     before = true
-    label  = "Подкаст \"Психология в разрезе\""
+    label  = "Психология в разрезе"
     link   = "categories/психология-в-разрезе/"
 
+[[params.menu]]
+   before = true
+   label  = "Все разделы"
+   link   = "categories/"
+
+#[[params.menu]]
+#   before = true
+#   label  = "Ответы на вопросы"
+#   link   = "answers/"
 
 [[params.menu]]
     before = true
     label  = "Фотографии"
     link   = "gallery/"
-
-[[params.menu]]
-    before = false
-    label  = "Все разделы"
-    link   = "categories/"
 
 [[params.menu]]
     before = false
@@ -120,6 +125,7 @@ category = "categories"
 [params.widgets]
     links = true
     recent_articles = true
-    categories = true
-    tags = true
+    tags = false
     tag_cloud = true
+    categories = true
+    license = true

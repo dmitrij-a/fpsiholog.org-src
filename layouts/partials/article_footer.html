@@ -1,3 +1,4 @@
+{{ if not .Params.nofooter }}
 <footer class="article-footer">
     <a data-url="{{ .Permalink }}" data-id="{{ .UniqueID }}" class="article-share-link">
         <i class="fa fa-share"></i>
@@ -75,3 +76,4 @@
     })(jQuery);
     </script>
 </footer>
+{{end}}
