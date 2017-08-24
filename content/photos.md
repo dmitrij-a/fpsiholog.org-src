@@ -2,7 +2,7 @@
 title = "Фотографии"
 nodateline = true
 menu = ""
-slug = "gallery"
+slug = "photos"
 noprevnext = true
 disable_comments = true
 nofooter = true

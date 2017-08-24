@@ -1,0 +1,26 @@
+{{ partial "head" . }}
+
+<div id="container">
+    {{ partial "header" . }}
+    <div class="outer">
+        {{ partial "profile" . }}
+        <section id="main">
+            <section class="archives-wrap">
+                <div class="archive-category-wrap">
+                    <span class="archive-category">{{ .Title }}</span>
+                </div>
+                <div class="archives">
+                    {{ range (where .Site.RegularPages.ByDate "Type" "podcast").Reverse }}
+                    
+                        {{ .Render "summary" }} 
+                    {{ end }}
+                </div>
+            </section>
+        </section>
+        {{ partial "sidebar" . }}
+    </div>
+</div>
+
+{{ partial "footer" . }}
+</body>
+</html>

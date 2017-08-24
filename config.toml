@@ -59,7 +59,7 @@ category = "categories"
 [[params.menu]]
     before = true
     label  = "Психология в разрезе"
-    link   = "categories/психология-в-разрезе/"
+    link   = "psychology/"
 
 [[params.menu]]
    before = true
@@ -74,7 +74,7 @@ category = "categories"
 [[params.menu]]
     before = true
     label  = "Фотографии"
-    link   = "gallery/"
+    link   = "photos/"
 
 [[params.menu]]
     before = false
