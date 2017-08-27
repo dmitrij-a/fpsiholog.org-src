@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue22.png"
 slug = "issue22"
-weight = 12
+weight = 13
 +++
 
 – ***Чужие проблемы***
