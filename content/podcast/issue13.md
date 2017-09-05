@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue13.png"
 slug = "issue13"
-weight = 4
+weight = 5
 +++
 
 ***Зависимость — безнадежность?***<br>

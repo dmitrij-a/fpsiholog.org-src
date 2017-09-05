@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue12.png"
 slug = "issue12"
-weight = 3
+weight = 4
 +++
 
 ***Зависимость?***<br>
