@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue12.png"
 slug = "issue12"
-weight = 4
+weight = 5
 +++
 
 ***Зависимость?***<br>
@@ -77,7 +77,7 @@ weight = 4
 ***На этом, двенадцатый выпуск подкаста "Психология в разрезе" подходит к концу. Ещё раз напомню, что вы можете записаться на консультацию через Skype — fpsiholog либо через мою страницу ВКонтакте — Нелли Лисица. Всем пока, пока; пишите, задавайте свои вопросы. В следующем подкасте мы продолжим тему зависимости.***
 
 
-<a href="skype:fpsiholog?userinfo">скайп</a>, <a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
+<a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
 Так же не забываем!<br>
 У нас есть группа <a href="https://vk.com/fpsiholog">ВКонтакте</a> ;–)<br>
 У нас есть <a href="http://ask.fm/fpsiholog">ask.fm</a> 8–)
