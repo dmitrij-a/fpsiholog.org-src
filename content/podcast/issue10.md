@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue10.png"
 slug = "issue10"
-weight = 3
+weight = 4
 +++
 
 ***Примеры и разборы ваших принципов и амбиций.***<br>

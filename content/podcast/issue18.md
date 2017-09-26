@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue18.png"
 slug = "issue18"
-weight = 11
+weight = 12
 +++
 
 ***Существует ли дружба? Наши ожидания от дружбы.***<br>

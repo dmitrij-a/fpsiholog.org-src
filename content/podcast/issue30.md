@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue30.png"
 slug = "issue30"
-weight = 23
+weight = 24
 +++
 
 – ***Ещё один невротический роман***

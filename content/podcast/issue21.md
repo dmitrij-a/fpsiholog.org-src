@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue21.png"
 slug = "issue21"
-weight = 14
+weight = 15
 +++
 
 ***Подкаст в не совсем обычном формате.<br>***
