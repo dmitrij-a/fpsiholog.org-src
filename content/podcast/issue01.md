@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue01.png"
 slug = "issue01"
-weight = 27
+weight = 28
 +++
 
 ***Поговорим о том, почему нам интересны чужие тайны. Поразмышляем на тему лжи и поговорим о маньяках.***
@@ -43,7 +43,7 @@ weight = 27
 ***Вот такие, вот, дела. На этом, думаю, пора заканчивать первый пилотный выпуск подкаста Психология в Разрезе. Надеюсь, что очень скоро, с вами услышимся. Я отвечу ещё на ваши вопросы, так, что смело задавайте их. А сейчас, пока, пока. Хорошего вам летнего настроения.***
 
 
-<a href="skype:fpsiholog?userinfo">скайп</a>, <a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
+<a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
 Так же не забываем!<br>
 У нас есть группа <a href="https://vk.com/fpsiholog">ВКонтакте</a> ;–)<br>
 У нас есть <a href="http://ask.fm/fpsiholog">ask.fm</a> 8–)

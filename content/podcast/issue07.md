@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue07.png"
 slug = "issue07"
-weight = 1
+weight = 2
 +++
 
 ***Что делать если в вашей семье психолог.***<br>
@@ -70,7 +70,7 @@ weight = 1
 ***Будьте здоровы, будьте счастливы, пишите комментарии, задавайте вопросы. Всем пока, пока, до встречи!***
 
 
-<a href="skype:fpsiholog?userinfo">скайп</a>, <a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
+<a href="https://vk.com/sunnybunnyf">ВК</a>, <a href="https://www.facebook.com/SunnyBunnyF">Фейсбук</a>.<br>
 Так же не забываем!<br>
 У нас есть группа <a href="https://vk.com/fpsiholog">ВКонтакте</a> ;–)<br>
 У нас есть <a href="http://ask.fm/fpsiholog">ask.fm</a> 8–)
