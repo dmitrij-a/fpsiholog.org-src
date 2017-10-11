@@ -6,7 +6,7 @@ categories = ["Психология в разрезе", "Интервью"]
 menu = ""
 banner = "banners/issue11.png"
 slug = "issue11"
-weight = 6
+weight = 7
 +++
 
 ***Была в гостях в подкасте " ... ну и денек!"***<br>

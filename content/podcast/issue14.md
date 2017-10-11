@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue14.png"
 slug = "issue14"
-weight = 9
+weight = 10
 +++
 
 ***Порно зависимость и религиозная зависимость существует?***<br>
