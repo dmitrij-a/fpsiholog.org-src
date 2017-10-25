@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue28.png"
 slug = "issue28"
-weight = 24
+weight = 25
 +++
 
 – ***Не получается быть счастливой. Все есть, а счастья нет.***

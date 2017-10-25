@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue09.png"
 slug = "issue09"
-weight = 5
+weight = 6
 +++
 
 ***Что такое ревность? — Болезнь или любовь?***<br>

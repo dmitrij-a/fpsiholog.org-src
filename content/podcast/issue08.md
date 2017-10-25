@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue08.png"
 slug = "issue08"
-weight = 4
+weight = 5
 +++
 
 ***Стоит ли идти к психологу?***<br>
