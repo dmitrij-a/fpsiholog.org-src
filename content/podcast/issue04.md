@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue04.png"
 slug = "issue04"
-weight = 1
+weight = 2
 +++
 
 ***Заключительный подкаст на тему любви.***<br>

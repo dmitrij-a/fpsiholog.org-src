@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue07.png"
 slug = "issue07"
-weight = 4
+weight = 5
 +++
 
 ***Что делать если в вашей семье психолог.***<br>

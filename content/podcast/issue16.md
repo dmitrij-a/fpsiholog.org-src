@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue16.png"
 slug = "issue16"
-weight = 13
+weight = 14
 +++
 
 ***Поговорим об обидах.***<br>

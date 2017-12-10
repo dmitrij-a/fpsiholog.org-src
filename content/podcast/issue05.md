@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue05.png"
 slug = "issue05"
-weight = 2
+weight = 3
 +++
 
 ***Кто такие психологи–маги?***<br>
