@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue25.png"
 slug = "issue25"
-weight = 23
+weight = 24
 +++
 
 – ***Когда вспыхивает сознание?***<br>

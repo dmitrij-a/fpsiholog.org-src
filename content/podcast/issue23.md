@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue23.png"
 slug = "issue23"
-weight = 21
+weight = 22
 +++
 
 – ***Как не «скатиться в мамочки»***.<br>

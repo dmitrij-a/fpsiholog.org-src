@@ -7,8 +7,8 @@
 
 # Linked older/newer posts at the bottom of each one
 [articles.linked_posts]
-    older = "Предыдущий пост"
-    newer = "Следующий пост"
+    older = "Следующий пост"
+    newer = "Предыдущий пост"
 
 [search]
     placeholder = "Поиск"

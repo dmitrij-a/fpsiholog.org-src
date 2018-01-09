@@ -6,7 +6,7 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue06.png"
 slug = "issue06"
-weight = 4
+weight = 5
 +++
 
 ***Всегда кто–то виноват.***<br>
