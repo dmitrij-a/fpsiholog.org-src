@@ -6,7 +6,6 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue26.png"
 slug = "issue26"
-weight = 25
 +++
 
 – ***Тридцатилетний ребенок.***<br>

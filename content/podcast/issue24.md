@@ -6,7 +6,6 @@ categories = ["Психология в разрезе"]
 menu = ""
 banner = "banners/issue24.png"
 slug = "issue24"
-weight = 23
 +++
 
 – ***Асексуальность, что это?***<br>
